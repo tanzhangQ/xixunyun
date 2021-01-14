@@ -47,7 +47,7 @@
    依次添加以下所有name以及value。<br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉ <br>
      Name:<code>USER</code><br>
-     Value：<code>20181010444 010444 206</code><br>
+     Value：<code>20181010452 123456 206</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
      Value：<code>106.559171,29.573601</code><br>
