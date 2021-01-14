@@ -47,13 +47,13 @@
    依次添加以下所有name以及value。<br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉ <br>
      Name:<code>USER</code><br>
-     Value：<code>20181010515 45683968LYF.. 206</code><br>
+     Value：<code>20181010444 010444 206</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
      Value：<code>106.558945,29.573603</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>ADDRESS_NAME</code><br>
-     Value：<code>重庆市江北区融景郦苑</code><br>
+     Value：<code>重庆市江北区融景城郦苑</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SCKEY</code><br>
      Value：<code>SCU150441T9ab1c38288a872188e16c2a47ba6132160002ff666c94</code>#申请地址http://sc.ftqq.com/3.version  <br>
