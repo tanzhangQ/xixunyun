@@ -50,7 +50,7 @@
      Value：<code>20181010444 010444 206</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
-     Value：<code>106.558945,29.573603</code><br>
+     Value：<code>106.559171,29.573601</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>ADDRESS_NAME</code><br>
      Value：<code>重庆市江北区融景城郦苑</code><br>
