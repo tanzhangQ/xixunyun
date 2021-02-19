@@ -49,7 +49,7 @@
    依次添加以下所有name以及value。<br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉ <br>
      Name:<code>USER</code><br>
-     Value：<code>012016010498 010498 1541</code><br>
+     Value：<code>012016010498 1987liuying 1541</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
      Value：<code>106.559171,29.573601</code><br>
